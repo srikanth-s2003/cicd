@@ -4,9 +4,12 @@ function App() {
 
   return (
     <>
-      <div>
-        <p>I will be the world's richest man.......</p>
-      </div>
+     <div>
+      <p>
+        I will be the world's richest man........ <br />
+        - Srikanth S
+      </p>
+     </div>
     </>
   )
 }
