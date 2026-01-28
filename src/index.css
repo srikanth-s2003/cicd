@@ -5,3 +5,9 @@ div{
   align-items: center;
   justify-content: center;
 }
+
+p{
+  font-size: 50px;
+  font-family: cursive;
+  color: hotpink;
+}
